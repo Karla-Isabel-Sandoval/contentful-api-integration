@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Karla-Isabel-Sandoval/contentful-api-integration/issues"
   },
-  "homepage": "https://github.com/Karla-Isabel-Sandoval/contentful-api-integration#readme"
+  "homepage": "https://github.com/Karla-Isabel-Sandoval/contentful-api-integration#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
