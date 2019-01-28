@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Karla-Isabel-Sandoval/contentful-api-integration#readme",
   "dependencies": {
+    "contentful": "^7.1.0",
     "express": "^4.16.4"
   }
 }
